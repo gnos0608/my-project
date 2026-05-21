@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-	cout << "Hello Git!" << endl;
+	cout << "Hello Git Version2!" << endl;
 	return 0;
 }
